@@ -11,6 +11,7 @@
   <a href="/" class:active={url === "/"}>Home</a>
   <a href="/projects" class:active={url.includes("/projects")}>Projects</a>
   <a href="/about" class:active={url.includes("/about")}>About</a>
+  <a href="https://impress.games/press-kit/shellpad-interactive" target="_blank">Presskit</a>
 </nav>
 
 <style>

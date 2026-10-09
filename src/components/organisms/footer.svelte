@@ -19,6 +19,9 @@
     </div>
   </div>
   <p class="text-center mt-10">
+    <a href="https://impress.games/press-kit/shellpad-interactive" target="_blank">Presskit</a>
+  </p>
+  <p class="text-center">
     &copy; {today.getFullYear()} Shellpad Interactive. All rights reserved.
   </p>
 </footer>

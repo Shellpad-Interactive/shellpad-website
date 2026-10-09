@@ -3,7 +3,7 @@ title: "Station Sjon"
 description: "A game completely controlled by using your webcam. Move around and help Sjon to reach the end of the stage by breaking blocks, moving platforms and activating elevators."
 pubDate: "2018-06-30"
 heroImage: "/stationsjon-small.jpg"
-highlighted: true
+highlighted: false
 ---
 
 ## Description

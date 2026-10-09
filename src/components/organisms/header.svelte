@@ -7,5 +7,5 @@
   <a href="/"><h1 class="text-center">Shellpad Interactive</h1></a>
   <Divider />
 
-  <p class="text-center text-xl">Game Developer - Web Developer - Tool Developer</p>
+  <p class="text-center text-xl">Game Developer - Web Developer - Video Producer</p>
 </header>
